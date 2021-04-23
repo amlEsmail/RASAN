@@ -1,0 +1,125 @@
+
+/*------------------------------------------------------------------
+Project:       Rasan Assignment
+Author:        Amal Ismail
+URL:            
+Created:      23-4-2021
+-------------------------------------------------------------------*/
+
+/* ======= Fonts  ======= */
+/* @font-face {
+	font-family: 'Frutigelight';
+	src: local('☺'), url('../fonts/FrutigerArabic/FrutigerLTArabic-45Light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal; 
+} */
+
+
+/* .light
+{
+  font-family: Frutigelight;
+}
+
+.regular
+{
+  font-family: Frutigeregular;
+}
+.meduim
+{
+  font-family: Frutigemeduim;
+}
+.bold
+{
+  font-family: Frutigebold;
+} */
+
+/* ======= Fonts  ======= */
+
+/* ======= Colors ======= */
+
+
+/* ======= Colors ======= */
+
+/* ======= Preloader ======= */
+
+
+/* ======= Preloader ======= */
+
+
+/* ======= General style ======= */
+
+/* ======= General style ======= */
+
+.main-search{
+  margin: 30px auto;
+}
+.cars-models{
+  margin: 20px auto;
+  background: #fffdeb;
+  border: 1px solid #feebeb;
+  padding: 10px;
+}
+
+
+.cars-models .item {
+  text-align: center;
+  background: #fff;
+  margin-right: 8px;
+  padding: 0;
+  margin-bottom: 12px;
+  box-shadow: 1px 1px 5px #e6e0e0;
+  max-width: 120px;
+}
+
+.item.item-selected ,.model-selected span{
+  border: 2px solid orange;
+}
+.cars-models .item  h4{
+  background-color: #f3f3f3;
+  font-size: 12px;
+  padding: 10px;
+}
+
+.model-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80px;
+}
+.chosen-container-multi .chosen-choices li.search-choice{
+  background: #ffeb3b;
+  border: 1px solid #e4d12b;
+}
+.model-types{
+  margin-top: 20px auto;
+}
+.model-item span{
+  background: #eaeaea;
+  text-align: center;
+  border-radius: 30px;
+  display: flex;
+  font-size: 13px;
+  line-height: 22px;
+  justify-content: center;
+
+}
+.success-msg{
+  text-transform: capitalize;
+
+}
+.msg-item{
+  display: flex;
+  margin-top: 20px;
+
+}
+.msg-item .icon{
+  margin: 0 10px;
+}
+.msg-item span{
+  font-size: 50px;
+  color: #15de15;
+}
+.msg-item p{
+  font-size: 12px;
+}
+
