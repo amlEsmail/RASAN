@@ -61,7 +61,7 @@ $(document).ready(function () {
         $('.model-select-no-results').chosen({
           no_results_text: 'Oops, nothing found!',
           width: '100%',
-          max_selected_options: 1
+          max_selected_options: 2
         });
       });
     });
